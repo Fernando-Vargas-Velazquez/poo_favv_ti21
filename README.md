@@ -2,11 +2,6 @@
 
 *Fernando Antonio Vargas Velazquez*
 
-
-
-
-
-
 ## Índice
 
 |No|Archivo     |Descripción         |
