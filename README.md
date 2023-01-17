@@ -1,6 +1,6 @@
-#Curso de Programación Orientada a Objetos
+# Curso de Programación Orientada a Objetos
 
-##Índice
+## Índice
 
 |No|Archivo     |Descripción         |
 |--|------------|--------------------|
