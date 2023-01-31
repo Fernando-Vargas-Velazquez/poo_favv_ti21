@@ -1,7 +1,7 @@
 """
     #Programa 5
     #Nombre: Fernando AVV
-    #Fecha: 26/01/2023
+    #Fecha: 30/01/2023
     #Descripción: Se pide el valor de una variable a través de un (input) y hace diferentes operaciones
 """
 numero1 = int(input("Número 1: ")) #Ingresa una variable  de nombre numero1

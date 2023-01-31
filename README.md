@@ -12,3 +12,4 @@
 |4 |programa3.py|Format y operaciones aridméticas|
 |5 |programa4.py|Suma de dos número utiliznado dos variables en (format)|
 |6 |programa5.py|Se pide el valor de una variable a través de un (input) y hace diferentes operaciones|
+|7 |programa6.py|Aplicación que permite calcular el area y el perimetro de un triangulo|
