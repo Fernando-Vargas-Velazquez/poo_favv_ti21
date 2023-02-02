@@ -14,3 +14,4 @@
 |6 |programa5.py|Se pide el valor de una variable a través de un (input) y hace diferentes operaciones|
 |7 |programa6.py|Aplicación que permite calcular el área y el perimetro de un triangulo|
 |8 |programa7.py|Aplicación que permite cacular el área de un círculo y un cuadrado|
+|9 |programa8.py|Estructura de las condicionales if, elif y else|
