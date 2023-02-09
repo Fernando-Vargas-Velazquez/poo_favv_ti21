@@ -21,9 +21,9 @@
 ## Retos
 *Programar diario*
 
-|No|Archivo     |Descripción         |
-|--|------------|--------------------|
-|1 |reto1.py|Calculadora con diferentes operadoresn|
-|2 |reto2.py|Programa que calcula tu edad|
-|3 |reto3.py|Programa que dice cual el número mayor de dos números|
-|4 |reto4.py|convierte un valor dado en grados Fahrenheit a grados Celsius|
+|No|Archivo     |Descripción         |Fecha    |
+|--|------------|--------------------|---------|
+|1 |reto1.py|Calculadora con diferentes operadoresn|03-02-2023|
+|2 |reto2.py|Programa que calcula tu edad|04-02-2023|
+|3 |reto3.py|Programa que dice cual el número mayor de dos números|05-02-2023|
+|4 |reto4.py|convierte un valor dado en grados Fahrenheit a grados Celsius|06-02-2023|
