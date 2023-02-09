@@ -15,3 +15,15 @@
 |7 |programa6.py|Aplicación que permite calcular el área y el perimetro de un triangulo|
 |8 |programa7.py|Aplicación que permite cacular el área de un círculo y un cuadrado|
 |9 |programa8.py|Estructura de las condicionales if, elif y else|
+|10|soluciones.py|Diferentes soluciones de un mimso algoritmo|
+
+
+## Retos
+*Programar diario*
+
+|No|Archivo     |Descripción         |
+|--|------------|--------------------|
+|1 |reto1.py|Calculadora con diferentes operadoresn|
+|2 |reto2.py|Programa que calcula tu edad|
+|3 |reto3.py|Programa que dice cual el número mayor de dos números|
+|4 |reto4.py|convierte un valor dado en grados Fahrenheit a grados Celsius|
