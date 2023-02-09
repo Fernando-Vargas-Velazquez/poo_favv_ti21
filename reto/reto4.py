@@ -1,10 +1,10 @@
 """
     #RETO 4
     #Nombre: Fernando AVV
-    #Fecha: 05/02/2023
+    #Fecha: 06/02/2023
     #Descripción: convierte un valor dado en grados Fahrenheit a grados Celsius
 """
-fahre = input("Ingresa grados Fahrenheit: ")
-celcius = (int(fahre) - 32) * 5/9
+fahre = input("Ingresa grados Fahrenheit: ") #Pide la variable farhe
+celcius = (int(fahre) - 32) * 5/9 #Realiza el calculo de Fahrenheit a Celsius
 
-print(fahre, " Son ", celcius,"° Celcius")
+print(fahre, " Son ", celcius,"° Celcius") #Imprime el resultado de el calculo
