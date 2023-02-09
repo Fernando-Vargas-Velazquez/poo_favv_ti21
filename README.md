@@ -16,6 +16,8 @@
 |8 |programa7.py|Aplicación que permite cacular el área de un círculo y un cuadrado|
 |9 |programa8.py|Estructura de las condicionales if, elif y else|
 |10|soluciones.py|Diferentes soluciones de un mimso algoritmo|
+|11|programa10.py|Funciones con def Parte 1|
+|12|programa11.py|Funciones con def Parte 2|
 
 
 ## Retos
