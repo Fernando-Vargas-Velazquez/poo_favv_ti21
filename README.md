@@ -29,4 +29,5 @@
 |2 |reto2.py|Programa que calcula tu edad|04-02-2023|
 |3 |reto3.py|Programa que dice cual el número mayor de dos números|05-02-2023|
 |4 |reto4.py|convierte un valor dado en grados Fahrenheit a grados Celsius|06-02-2023|
-|5 |reto5.py|Programa que imprime los números pares en un rago dado por el usuario|08-02-2023||
+|5 |reto5.py|Programa que imprime los números pares en un rago dado por el usuario|08-02-2023|
+|6 |reto6.py|Programa que aplica descuentos dados dados por el usuario|10-02-2023|
