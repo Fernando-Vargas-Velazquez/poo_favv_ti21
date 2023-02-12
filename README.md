@@ -31,3 +31,4 @@
 |4 |reto4.py|convierte un valor dado en grados Fahrenheit a grados Celsius|06-02-2023|
 |5 |reto5.py|Programa que imprime los números pares en un rago dado por el usuario|08-02-2023|
 |6 |reto6.py|Programa que aplica descuentos dados dados por el usuario|10-02-2023|
+|7 |reto7.py|Calcula el área y perímetro de un cuadrado|11-02-2023|
