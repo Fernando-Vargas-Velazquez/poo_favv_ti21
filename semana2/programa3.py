@@ -4,8 +4,8 @@
     #Fecha: 24/01/2023
     #Descripción: Format y operaciones aridméticas
 """
-numero1 = 10
-numero2 = 5
+numero1 = 10 #Se crea la variable numero1
+numero2 = 5 #Se crea la variable numero2
 
 print(numero1 + numero2)#Este print imprimira el número 15
 

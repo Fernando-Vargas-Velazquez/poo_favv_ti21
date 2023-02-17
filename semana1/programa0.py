@@ -1,2 +1,2 @@
 print("Hola mundo en python3") # Imprime un mensaje en consola
-print("Editado desde Replit :D")
+print("Editado desde Replit :D") #Imprime un mensaje en consola

@@ -6,15 +6,6 @@
 """
 
 """
-  op = 3
-  if op == 2:
-    print("Hola 2")
-  elif op == 3:
-    print("Hola 3")
-  else:
-    print("Hola?")
-    
-===============================================
   1.-Operadores Aritméticos
    + - / * // % **
 
@@ -40,4 +31,3 @@ elif num2 < num1 : #Condiciona si num1 es mayor que num2
     print(num1) # imprime el num1
 elif num1 == num2: #Condiciona si son iguales
     print(None) #imprime none
-    
